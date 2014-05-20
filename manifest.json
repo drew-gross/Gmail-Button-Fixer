@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "Gmail Refresh Button Fixer",
-  "description": "Keeps the refresh button around when mail is selected. Refresh Icon by Edward Boatman from thenounproject.com. Extension by Drew Gross.",
-  "version": "1.0",
+  "description": "Keeps the refresh button around when mail is selected. This extension depends on the layout of the Gmail webpage and is unlikely to be stable. Refresh Icon by Edward Boatman from thenounproject.com. Extension by Drew Gross.",
+  "version": "0.1",
 
   "permissions": [
     "https://gmail.com/"
