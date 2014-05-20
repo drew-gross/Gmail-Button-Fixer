@@ -13,5 +13,9 @@
       "matches":["https://mail.google.com/*"],
       "js":["script.js"]
     }
-  ]
+  ],
+  "icons":{
+    "64": "refresh64.png",
+    "128": "refresh128.png"
+  }
 }
